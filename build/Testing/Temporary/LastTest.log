@@ -1,0 +1,19 @@
+Start testing: Jun 11 21:47 MSK
+----------------------------------------------------------
+Unable to find executable: my_test
+1/1 Testing: speed
+1/1 Test: speed
+Command: ""
+Directory: /home/amgalan/Downloads/Telegram Desktop/ProjectAiP/build
+"speed" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"speed" end time: Jun 11 21:47 MSK
+"speed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 11 21:47 MSK
